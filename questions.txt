@@ -1,0 +1,14 @@
+How does the web work?
+-> WHat happens when you open a browser?
+-> GET request, router/controller/models/views, etc
+-> HTTP verbs
+
+
+Explain idempotence
+
+1) explain idempotence in regards to REST APIs. Which actions are idempotent?
+2) explain to me how CSS priorities work (specificity, top-down, etc.)
+
+what is big O notation? OR Significance of n + 1 query
+
+technical: “given infinite time, how would you refactor that?” (in the context of the code/code challenge they/i just wrote)
